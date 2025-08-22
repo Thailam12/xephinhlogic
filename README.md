@@ -33,14 +33,6 @@ Trò chơi xếp hình logic 3x3 viết bằng **HTML + React + Canvas**, chơi 
 2. Mở `index.html` bằng trình duyệt bất kỳ
 3. Chơi ngay, không cần build hay cài đặt
 
-## ✨ Tính năng sắp tới
-
-- ✅ Kiểm tra trạng thái thắng
-- ✅ Nút Reset để trộn lại
-- ⏱️ Đếm bước di chuyển
-- 🧠 Chế độ AI tự giải
-- 🏆 Bảng xếp hạng online
-
 ## 📜 Giấy phép
 
 MIT License — dùng thoải mái, fork tùy ý, nhớ credit nếu chia sẻ lại 😄
