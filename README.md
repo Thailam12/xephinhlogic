@@ -39,4 +39,4 @@ MIT License — dùng thoải mái, fork tùy ý, nhớ credit nếu chia sẻ l
 
 ---
 
-Made with ❤️ by [Lâm](https://xephinhlogic.netlify.app/)S
+Made with ❤️ by [Lâm](https://xephinhlogic.netlify.app/)
